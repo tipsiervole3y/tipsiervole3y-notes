@@ -1,6 +1,6 @@
-# Scratch — day 281
+# Todo — day 281
 
-- reviewed algorithms notes
-- cleaned up a module
+- reviewed typescript notes
+- outlined a module
 - next: read docs
-- seed: e4bcea99
+- seed: 294602f7
